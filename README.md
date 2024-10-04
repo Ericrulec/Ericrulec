@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ericrulec
+### I've migrated to [Codeberg](https://codeberg.org/ericrulec).
 
 <!---
 Ericrulec/Ericrulec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
